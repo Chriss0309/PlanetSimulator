@@ -1,1 +1,2 @@
 # PlanetSimulator
+A dynamic and educational Python project that visualizes the orbits of planets in our solar system using Pygame. This simulation demonstrates the principles of gravity and planetary motion in a visually appealing and interactive manner. Each planet, including Earth, Mars, Mercury, and Venus, follows a path around the Sun, calculated based on real astronomical data and the laws of physics. It's an excellent resource for students, educators, or anyone fascinated by astronomy and the mechanics of our solar system."
